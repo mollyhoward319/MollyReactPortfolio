@@ -14,7 +14,7 @@ export default function About() {
       Hello, I am Molly Howard, a Full Stack Developer with a strong background in Program Management, Social Media Marketing, Web Design, and Communication. I am entering the web developer field with certification from University of Wisconsin Coding Bootcamp.   
 <br></br>
 <br></br>
-I have knowledge of the fundamental concepts of web development (HTML, CSS, & JavaScript), as well as command line fundamentals and Git version control. I have the skills necessary to engineer full-stack web applications, work with servers, databases, and other back-end technologies, and connecting them to the front end.  I have worked with AI-powered technologies such as OpenAI and LangChain. 
+I have knowledge of the fundamental concepts of web devlopment (HTML, CSS, & JavaScript), as well as command line fundamentals and Git version control. I have the skills necessary to engineer full-stack web applications, work with servers, databases, and other back-end technologies, and connecting them to the front end.  I have worked with AI-powered technologies such as OpenAI and LangChain. 
 <br></br>
 <br></br>
       Proficient Front End Web Design Languages:
