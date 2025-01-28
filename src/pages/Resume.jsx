@@ -18,7 +18,7 @@ export default function Resume() {
                     alt="resume"
                     style={{ width: '20%', 
                       height: 'auto',
-                      filter: isHovered ? 'brightness(40) saturate(10%) invert(0%) sepia(0%) saturate(20%) hue-rotate(177deg) brightness(40%) contrast(20%)' : 'none', }}
+                      filter: isHovered ? 'brightness(100%) saturate(10%) invert(30%) sepia(10%) saturate(10%) hue-rotate(177deg) brightness(100%) contrast(90%)' : 'none', }}
                 />
             </a>
         <div className="resumeFront">Front End Proficiencies</div>
